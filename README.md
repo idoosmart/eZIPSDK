@@ -1,6 +1,6 @@
 # eZIPSDK
 
-eZIPSDK is a library for making watch face image conversion
+eZIPSDK is a library for making Sifili watch face image conversion
 
 ## Requirements
 
