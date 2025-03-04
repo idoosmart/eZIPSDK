@@ -35,7 +35,7 @@ import eZIPSDK
 In your Objective-C files, import the SDK using:
 
 ```objective-c
-#import <eZIPSDK/eZIPSDK-Swift.h>
+#import <eZIPSDK/eZIPSDK.h>
 ```
 
 ### Example
@@ -49,7 +49,7 @@ import eZIPSDK
 ```
 
 ```objective-c
-#import <eZIPSDK/eZIPSDK-Swift.h>
+#import <eZIPSDK/eZIPSDK.h>
 
 
 ```
