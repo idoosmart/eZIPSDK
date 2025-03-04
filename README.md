@@ -38,21 +38,6 @@ In your Objective-C files, import the SDK using:
 #import <eZIPSDK/eZIPSDK.h>
 ```
 
-### Example
-
-Here's an example of how to use `eZIPSDK`:
-
-```swift
-import eZIPSDK
-
-
-```
-
-```objective-c
-#import <eZIPSDK/eZIPSDK.h>
-
-
-```
 
 ## License
 
